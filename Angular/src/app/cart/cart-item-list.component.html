@@ -1,0 +1,32 @@
+<div *ngIf="cartItems.length > 0; else noItems" class="item">
+    <h2>Latest Cart Items</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Cart Item ID</th>
+          <th>Created On</th>
+          <th>Product ID</th>
+          <th>Quantity</th>
+          <th>Price</th>
+          <th>Cart ID</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of cartItems">
+          <td>{{ item.cartItemId }}</td>
+          <td>{{ item.createdOn | date }}</td>
+          <td>{{ item.productId }}</td>
+          <td>{{ item.quantity }}</td>
+          <td>{{ item.price | currency }}</td>
+          <td>{{ item.cartId }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <button> Checkout </button>
+  
+  <ng-template #noItems>
+    <p>No cart items found.</p>
+  </ng-template>
+  

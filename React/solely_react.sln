@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "solely_react", ".", "{F7D97503-C4B5-443C-8258-E5357890F9C4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54546"
+		Debug.AspNetCompiler.PhysicalPath = "J:\Sohail\12222\ProjectReactSolely\solely_react\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54546\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54546"
+		Release.AspNetCompiler.PhysicalPath = "J:\Sohail\12222\ProjectReactSolely\solely_react\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54546\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54546"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D97503-C4B5-443C-8258-E5357890F9C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D97503-C4B5-443C-8258-E5357890F9C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {611C72C8-FDA2-4DB3-A544-A7CFC13BBF3C}
+	EndGlobalSection
+EndGlobal

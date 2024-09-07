@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Angular", "Angular\", "{718F8D02-FD86-4CC3-806D-F031DB90DB9D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3593"
+		Debug.AspNetCompiler.PhysicalPath = "Angular\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3593\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3593"
+		Release.AspNetCompiler.PhysicalPath = "Angular\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3593\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3593"
+		SlnRelativePath = "Angular\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "React", "React\", "{4283D062-26B9-49E7-BCDC-CED9844763B5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3594"
+		Debug.AspNetCompiler.PhysicalPath = "React\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3594\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3594"
+		Release.AspNetCompiler.PhysicalPath = "React\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3594\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3594"
+		SlnRelativePath = "React\"
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsDB_R57_Solely", "..\..\..\Downloads\Solely_Full_Project\Solely_Full_Project\API\IsDB_R57_Solely.csproj", "{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{718F8D02-FD86-4CC3-806D-F031DB90DB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718F8D02-FD86-4CC3-806D-F031DB90DB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718F8D02-FD86-4CC3-806D-F031DB90DB9D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{718F8D02-FD86-4CC3-806D-F031DB90DB9D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{4283D062-26B9-49E7-BCDC-CED9844763B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4283D062-26B9-49E7-BCDC-CED9844763B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4283D062-26B9-49E7-BCDC-CED9844763B5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4283D062-26B9-49E7-BCDC-CED9844763B5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BFACDC-4AF1-46E4-90A2-A0CA217FCAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56E98F35-07CC-41CF-A0D6-A404955C7D11}
+	EndGlobalSection
+EndGlobal
