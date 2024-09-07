@@ -52,4 +52,4 @@ this platform provides extensive features for managing products, processing orde
 
 ## Contact
 
-For questions or feedback, please contact Munir Chowdhury at [Nazmul Hoque Munna](https://github.com/Nazmulhqm).
+For questions or feedback, please contact  [Lema Taposhe](https://github.com/LemaTaposhe).
